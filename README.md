@@ -25,4 +25,4 @@ Ports / Important Details
 Scrypt & Kimoto's Gravity Well Fork - September 20, 2014 00:00:00 GMT
 Web Pages
 
-Main Page - http://www.theSPT.com/ Block Explorer - http://www.crypto2.net/spots/ Official Pool - http://Mine.theSPT.com/ Paper Wallet - Coming Soon Forums - Comining Soon Spots Marketplace - Phase 2
+Main Page - http://spt.22web.org/ Block Explorer - http://www.crypto2.net/spots/ Official Pool - http://Mine.theSPT.com/ Paper Wallet - Coming Soon Forums - Comining Soon Spots Marketplace - Phase 2
